@@ -14,12 +14,12 @@ const App={
                 <i data-lucide="music" class="w-12 h-12 text-white/60 absolute"></i>
                 <img src="dev.png" class="absolute inset-0 w-full h-full object-cover" onerror="this.style.display='none'" />
             </div>
-            <h1 class="text-3xl font-black chrome-text mb-1">Xmusic</h1>
+            <h1 class="text-3xl font-black chrome-text mb-1">InoXmusic</h1>
             <p class="text-[#b3b3b3] text-sm mb-6">Streaming Musik YouTube dengan Lirik</p>
             
             <div class="glass rounded-2xl p-5 max-w-sm mx-auto space-y-3 text-left mb-4">
                 <h3 class="text-[#cfd3d8] font-bold text-sm uppercase tracking-wider mb-2">📱 Aplikasi</h3>
-                <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Nama</span><span class="text-white font-medium text-sm">Xmusic</span></div>
+                <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Nama</span><span class="text-white font-medium text-sm">InoXmusic</span></div>
                 <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Versi</span><span class="text-white font-medium text-sm">v2.0.0</span></div>
                 <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Dirilis</span><span class="text-white font-medium text-sm">Januari 2025</span></div>
                 <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Framework</span><span class="text-white font-medium text-sm">HTML + Tailwind + JS</span></div>
@@ -28,8 +28,8 @@ const App={
             
             <div class="glass rounded-2xl p-5 max-w-sm mx-auto space-y-3 text-left mb-6">
                 <h3 class="text-[#cfd3d8] font-bold text-sm uppercase tracking-wider mb-2">👤 Developer</h3>
-                <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Nama</span><span class="text-white font-bold text-sm">XTan</span></div>
-                <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Instagram</span><span class="text-[#cfd3d8] font-bold text-sm">@abctanuu</span></div>
+                <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Nama</span><span class="text-white font-bold text-sm">InoXmusic</span></div>
+                <div class="flex justify-between"><span class="text-[#6b7280] text-sm">Instagram</span><span class="text-[#cfd3d8] font-bold text-sm">@ino.digital23</span></div>
             </div>
             
             <a href="https://whatsapp.com/channel/0029VbD8Muz9WtBuZR9UMq0x" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center">
